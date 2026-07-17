@@ -1,0 +1,131 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "cases": "Success Cases",
+    "catalog": "Catalog",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "testimonials": "Experiences"
+  },
+  "hero": {
+    "title": "Premium corporate experiences that leave a mark.",
+    "subtitle": "Catering, corporate gifts and business experiences designed with obsessive attention to detail.",
+    "cta_quote": "Request a Quote",
+    "cta_meeting": "Schedule a Meeting"
+  },
+  "testimonials": {
+    "section_title": "Client Experiences",
+    "section_subtitle": "What those who trust NSP for their most important corporate moments have to say."
+  },
+  "services": {
+    "section_title": "Our Services",
+    "section_subtitle": "Three business lines designed to cover every corporate need with premium standards.",
+    "catering": {
+      "title": "Corporate Catering",
+      "description": "From coffee breaks to executive cocktails. Every detail designed to impress.",
+      "items": ["Coffee Break", "Corporate Breakfasts", "Executive Lunches", "Cocktails", "Internal Events", "Seminars & Training", "Product Launches"]
+    },
+    "gifts": {
+      "title": "Corporate Gifts",
+      "description": "Curated selection of premium gifts for every occasion and recipient.",
+      "items": ["Premium Gourmet", "Wellness & Spa", "Technology", "Sustainable", "Personalized"]
+    },
+    "programs": {
+      "title": "Corporate Programs",
+      "description": "Annual contracts with HR for ongoing employee recognition.",
+      "items": ["Birthdays", "Anniversaries", "Welcomes", "Recognition", "Corporate Christmas", "Women's Day", "Father's / Mother's Day"]
+    }
+  },
+  "cases": {
+    "section_title": "Success Cases",
+    "section_subtitle": "Leading companies that trusted NSP to create memorable moments.",
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "result": "Result"
+  },
+  "catalog": {
+    "section_title": "Digital Catalog",
+    "section_subtitle": "Explore our premium selection of products and services. Filter by budget, occasion or client type.",
+    "filter_budget": "Budget",
+    "filter_occasion": "Occasion",
+    "filter_client": "Client Type",
+    "filter_all": "All",
+    "budget_low": "Up to $50,000",
+    "budget_mid": "Up to $150,000",
+    "budget_high": "$150,000+",
+    "occasion_christmas": "Christmas",
+    "occasion_birthday": "Birthday",
+    "occasion_onboarding": "Onboarding",
+    "occasion_anniversary": "Anniversary",
+    "occasion_recognition": "Recognition",
+    "occasion_event": "Event",
+    "client_hr": "HR",
+    "client_exec": "Executive",
+    "client_sales": "Sales Team",
+    "quote_btn": "Get Quote"
+  },
+  "about": {
+    "section_title": "About Us",
+    "section_subtitle": "A company born from an obsession with details and the perfect corporate experience.",
+    "mission_title": "Mission",
+    "mission_text": "To design and execute corporate experiences through high-quality catering and corporate gift services, with an obsession for detail, presentation, and client satisfaction.",
+    "vision_title": "Vision",
+    "vision_text": "To become the reference company in Chile for premium corporate experiences, recognized for operational excellence and personalized service.",
+    "values_title": "Our Values",
+    "team_title": "Our Team",
+    "values": {
+      "excellence": { "title": "Excellence", "desc": "Every delivery is reviewed with premium quality standards before reaching the client." },
+      "detail": { "title": "Attention to Detail", "desc": "Detail makes the difference between a good service and a memorable one." },
+      "trust": { "title": "Trust", "desc": "We fulfill every commitment with absolute punctuality and transparency." },
+      "innovation": { "title": "Innovation", "desc": "We constantly renew our offer to surprise and exceed expectations." },
+      "sustainability": { "title": "Sustainability", "desc": "We incorporate eco-friendly products and responsible suppliers into our chain." }
+    }
+  },
+  "blog": {
+    "section_title": "Blog & Trends",
+    "section_subtitle": "Ideas, trends, and tips to transform your company's corporate culture.",
+    "read_more": "Read more",
+    "categories": {
+      "employee_exp": "Employee Experience",
+      "culture": "Organizational Culture",
+      "recognition": "Recognition",
+      "gifts": "Corporate Gifts",
+      "trends": "Trends"
+    }
+  },
+  "contact": {
+    "section_title": "Contact",
+    "section_subtitle": "Tell us about your next event or corporate program. We respond within 24 hours.",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "service": "Service of Interest",
+    "message": "Message",
+    "send": "Send Inquiry",
+    "sending": "Sending...",
+    "success_title": "Message received!",
+    "success_text": "We will contact you within the next 24 hours.",
+    "whatsapp": "Chat on WhatsApp",
+    "calendly": "Schedule on Calendly",
+    "select_service": "Select a service",
+    "placeholder_message": "Tell us about your event, number of people, approximate date and any relevant details...",
+    "required": "Required field",
+    "invalid_email": "Invalid email"
+  },
+  "footer": {
+    "tagline": "Premium corporate experiences that leave a mark.",
+    "links_title": "Navigation",
+    "services_title": "Services",
+    "contact_title": "Contact",
+    "rights": "All rights reserved.",
+    "made_chile": "Made with ❤ in Chile"
+  },
+  "accessibility": {
+    "toggle_label": "Enable high contrast mode",
+    "toggle_off": "Disable high contrast mode"
+  },
+  "lang_toggle": "ES"
+}

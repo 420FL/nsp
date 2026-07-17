@@ -1,0 +1,131 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "cases": "Casos de Éxito",
+    "catalog": "Catálogo",
+    "about": "Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "testimonials": "Experiencias"
+  },
+  "hero": {
+    "title": "Experiencias corporativas premium que dejan huella.",
+    "subtitle": "Catering, regalos corporativos y experiencias empresariales diseñadas con atención obsesiva al detalle.",
+    "cta_quote": "Solicitar Cotización",
+    "cta_meeting": "Agendar Reunión"
+  },
+  "testimonials": {
+    "section_title": "Experiencias de Clientes",
+    "section_subtitle": "Lo que dicen quienes confían en NSP para sus momentos corporativos más importantes."
+  },
+  "services": {
+    "section_title": "Nuestros Servicios",
+    "section_subtitle": "Tres líneas de negocio diseñadas para cubrir cada necesidad corporativa con estándares premium.",
+    "catering": {
+      "title": "Catering Corporativo",
+      "description": "Desde coffee breaks hasta cócteles ejecutivos. Cada detalle diseñado para impresionar.",
+      "items": ["Coffee Break", "Desayunos Corporativos", "Almuerzos Ejecutivos", "Cócteles", "Eventos Internos", "Seminarios y Capacitaciones", "Lanzamientos de Producto"]
+    },
+    "gifts": {
+      "title": "Regalos Corporativos",
+      "description": "Selección curada de regalos premium para cada ocasión y destinatario.",
+      "items": ["Gourmet Premium", "Bienestar & Spa", "Tecnología", "Sustentables", "Personalizados"]
+    },
+    "programs": {
+      "title": "Programas Corporativos",
+      "description": "Contratos anuales con RRHH para reconocimiento recurrente de colaboradores.",
+      "items": ["Cumpleaños", "Aniversarios", "Bienvenidas", "Reconocimiento", "Navidad Corporativa", "Día de la Mujer", "Día del Padre / Madre"]
+    }
+  },
+  "cases": {
+    "section_title": "Casos de Éxito",
+    "section_subtitle": "Empresas líderes que confiaron en NSP para crear momentos memorables.",
+    "challenge": "Desafío",
+    "solution": "Solución",
+    "result": "Resultado"
+  },
+  "catalog": {
+    "section_title": "Catálogo Digital",
+    "section_subtitle": "Explora nuestra selección de productos y servicios premium. Filtra por presupuesto, ocasión o tipo de cliente.",
+    "filter_budget": "Presupuesto",
+    "filter_occasion": "Ocasión",
+    "filter_client": "Tipo de Cliente",
+    "filter_all": "Todos",
+    "budget_low": "Hasta $50.000",
+    "budget_mid": "Hasta $150.000",
+    "budget_high": "$150.000+",
+    "occasion_christmas": "Navidad",
+    "occasion_birthday": "Cumpleaños",
+    "occasion_onboarding": "Onboarding",
+    "occasion_anniversary": "Aniversario",
+    "occasion_recognition": "Reconocimiento",
+    "occasion_event": "Evento",
+    "client_hr": "RRHH",
+    "client_exec": "Dirección",
+    "client_sales": "Área Comercial",
+    "quote_btn": "Cotizar"
+  },
+  "about": {
+    "section_title": "Nosotros",
+    "section_subtitle": "Una empresa nacida de la obsesión por los detalles y la experiencia corporativa perfecta.",
+    "mission_title": "Misión",
+    "mission_text": "Diseñar y ejecutar experiencias corporativas a través de servicios de catering y regalos empresariales de alta calidad, con una obsesión por el detalle, la presentación y la satisfacción del cliente.",
+    "vision_title": "Visión",
+    "vision_text": "Convertirse en la empresa de referencia en Chile para experiencias corporativas premium, reconocida por la excelencia operacional y el servicio personalizado.",
+    "values_title": "Nuestros Valores",
+    "team_title": "Nuestro Equipo",
+    "values": {
+      "excellence": { "title": "Excelencia", "desc": "Cada entrega es revisada con estándares de calidad premium antes de llegar al cliente." },
+      "detail": { "title": "Atención al Detalle", "desc": "El detalle marca la diferencia entre un servicio bueno y uno memorable." },
+      "trust": { "title": "Confianza", "desc": "Cumplimos cada compromiso con puntualidad y transparencia absoluta." },
+      "innovation": { "title": "Innovación", "desc": "Renovamos constantemente nuestra oferta para sorprender y superar expectativas." },
+      "sustainability": { "title": "Sustentabilidad", "desc": "Incorporamos productos ecológicos y proveedores responsables en nuestra cadena." }
+    }
+  },
+  "blog": {
+    "section_title": "Blog & Tendencias",
+    "section_subtitle": "Ideas, tendencias y consejos para transformar la cultura corporativa de tu empresa.",
+    "read_more": "Leer más",
+    "categories": {
+      "employee_exp": "Employee Experience",
+      "culture": "Cultura Organizacional",
+      "recognition": "Reconocimiento",
+      "gifts": "Regalos Corporativos",
+      "trends": "Tendencias"
+    }
+  },
+  "contact": {
+    "section_title": "Contacto",
+    "section_subtitle": "Cuéntanos sobre tu próximo evento o programa corporativo. Te respondemos en menos de 24 horas.",
+    "name": "Nombre",
+    "company": "Empresa",
+    "email": "Email",
+    "phone": "Teléfono",
+    "service": "Servicio de Interés",
+    "message": "Mensaje",
+    "send": "Enviar Consulta",
+    "sending": "Enviando...",
+    "success_title": "¡Mensaje recibido!",
+    "success_text": "Te contactaremos dentro de las próximas 24 horas.",
+    "whatsapp": "Chatear por WhatsApp",
+    "calendly": "Agendar Reunión en Calendly",
+    "select_service": "Selecciona un servicio",
+    "placeholder_message": "Cuéntanos sobre tu evento, cantidad de personas, fecha aproximada y cualquier detalle relevante...",
+    "required": "Campo requerido",
+    "invalid_email": "Email inválido"
+  },
+  "footer": {
+    "tagline": "Experiencias corporativas premium que dejan huella.",
+    "links_title": "Navegación",
+    "services_title": "Servicios",
+    "contact_title": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "made_chile": "Hecho con ❤ en Chile"
+  },
+  "accessibility": {
+    "toggle_label": "Activar modo alto contraste",
+    "toggle_off": "Desactivar modo alto contraste"
+  },
+  "lang_toggle": "EN"
+}
